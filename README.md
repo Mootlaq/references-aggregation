@@ -2,9 +2,7 @@ a python CLI program that aggregates all your unlinked references in one page. I
 
 Roam gives a way to find all linked references. We all use that. It also gives you a way to find all unlinked references. But to find those, you need to be in the referenced page. What if you want to do the opposite and see which pages this page references. This program does that. It shows you the unlinked references from the page they're referenced in. 
 
-This is useful in case you import book highlights,  articles, or web-scrape long form data into Roam, like me (more on that below). Sometimes, you don't want to go over these highlights or full articles to find references. 
-
-I web scrape a 40-pages governmental meeting report every week. It includes all the tenders and contracts in the government. It's a good way track tenders as they're the most popular form of corruption where I come from (Yes, I use Roam to fight corruption.) The meeting include mentions of ministries (departments), companies and institutions. In order to link all the entities mentioned in the meeting you'll have to go to each page and link them. With this script, I can find all of them in the 'linked references' section.
+This is useful in case you import book highlights,  articles, or web-scrape long form data into Roam, like me.
 
 ### Usage
 - Clone the repo. 
