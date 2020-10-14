@@ -22,9 +22,8 @@ I web scrape a 40-pages governmental meeting report every week. It includes all 
 
 ### Bugs and issues:
 - It makes the graph overview really bad. The huge blue dots in the screenshot below are the outputs of this program when I was testing it. Yes, It's ugly.
-![](graph)
+![](graph.png)
 - There are still unnecessary links in the page. For example: It still references 'google' even though we know these are just images.
-- You'll see this as part of the linked references in **all** your pages.
 
 
 Feedback is appreciated!
